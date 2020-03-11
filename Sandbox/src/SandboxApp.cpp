@@ -11,7 +11,7 @@ public:
 	~Sandbox()
 	{
 
-	}
+	}  
 };
 
 Hazel::Application* Hazel::CreateApplication() 
